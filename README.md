@@ -1,2 +1,2 @@
-# Object_Detection_AI_Tool_for_Cars
+# Object Detection AI Tool for Cars
 This tool is an AI tool that helps self-driving cars see. Jupyter Notebooks and Python are used to explain the tool and execute it.
